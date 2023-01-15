@@ -1,1 +1,2 @@
-# Notes
+# Obsidian Notes
+Synced from laptop
