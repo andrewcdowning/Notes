@@ -1,2 +1,2 @@
 # Obsidian Notes
-Synced from laptop
+Synced from {{hosname}}
