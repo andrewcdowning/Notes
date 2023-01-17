@@ -128,13 +128,21 @@
                 "file": "VSCode/Editing.md"
               }
             }
+          },
+          {
+            "id": "718360fa756b64d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7647d6f9b321acea",
+  "active": "d844e6c3d3aeea9c",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Clean Code/Comments and formatting.md",
+    "DataStructs/Big 0.md",
+    "DataStructs/doubleLL.jpg",
+    "VSCode/Editing.md"
   ]
 }

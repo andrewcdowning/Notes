@@ -22,3 +22,5 @@ occur across all files in a project. You also have Rename Symbol in the right-cl
 Keeping your code looking great is hard without a good formatter. Luckily it's easy to format content, either for the
 entire document with ⇧⌥ F or for the current selection with ⌘K ⌘F. Both of these options are also available through the
 right-click context menu.
+
+This is an addtional comment
