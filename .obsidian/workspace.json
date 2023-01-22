@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40d4fbccbc348575",
+        "id": "9bbe1a02597abcf5",
         "type": "tabs",
         "children": [
           {
-            "id": "7647d6f9b321acea",
+            "id": "8906f8fb62888c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "VSCode/Editing.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Go/COURSE_OUTLINE_PART_2_LEARN_TO_CODE_GO.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/Editing.md",
+                "file": "Attachments/Go/COURSE_OUTLINE_PART_2_LEARN_TO_CODE_GO.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/Editing.md",
+                "file": "Attachments/Go/COURSE_OUTLINE_PART_2_LEARN_TO_CODE_GO.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/Editing.md"
+                "file": "Attachments/Go/COURSE_OUTLINE_PART_2_LEARN_TO_CODE_GO.pdf"
               }
             }
           },
@@ -156,10 +154,15 @@
   },
   "active": "d844e6c3d3aeea9c",
   "lastOpenFiles": [
+    "Attachments/CleanCode/Naming-Summary.pdf",
+    "Attachments/VSCode/keyboard-shortcuts-macos.pdf",
+    "Attachments/CleanCode/Checklist.pdf",
+    "Attachments/CleanCode/Clean Code Summary.pdf",
+    "Attachments/TDD/202Info1PropertiesofGoodTests-220405-175032.pdf",
+    "Objects-Summary.pdf",
+    "Attachments/Go/COURSE_OUTLINE_PART_2_LEARN_TO_CODE_GO.pdf",
+    "VSCode/Editing.md",
     "README.md",
-    "Clean Code/Comments and formatting.md",
-    "DataStructs/Big 0.md",
-    "DataStructs/doubleLL.jpg",
-    "VSCode/Editing.md"
+    "Clean Code/Comments and formatting.md"
   ]
 }
