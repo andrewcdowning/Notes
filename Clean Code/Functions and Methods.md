@@ -21,7 +21,7 @@ Functions can initiate multiple functions
 
 ### When to split 
 - extract code that works on the same functionality
-- requires more interpritation than surround code.
+- requires more interpretation than surround code.
 - DRY - Don't repeat yourself
 - Don't over do it
   - avoid useless abstraction
@@ -31,3 +31,5 @@ Functions can initiate multiple functions
 - just renaming
 - the new function will take longer than reading the extracted code
 - can not produce a reasonable name for the extracted code
+[[Functions-Summary.pdf| Functions Summary]]
+[[slides-functions.pdf | Functions Sides]]

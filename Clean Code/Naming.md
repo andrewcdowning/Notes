@@ -16,4 +16,7 @@ Functions and methods - commands
 Classes - create things
 * nouns or short phrases with nouns
 
+[[Naming-Summary.pdf]]
+
+[[slides-naming.pdf]]
 

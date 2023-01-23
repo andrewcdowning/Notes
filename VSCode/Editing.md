@@ -23,4 +23,4 @@ Keeping your code looking great is hard without a good formatter. Luckily it's e
 entire document with ⇧⌥ F or for the current selection with ⌘K ⌘F. Both of these options are also available through the
 right-click context menu.
 
-This is an addtional comment
+[[keyboard-shortcuts-macos.pdf|Mac Shortcuts]]
