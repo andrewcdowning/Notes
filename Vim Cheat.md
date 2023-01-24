@@ -10,3 +10,6 @@ v: Visual mode
 a: select "a"n object 
 
 example va(  selects between brace
+
+
+=ap: auto indent paragraph
