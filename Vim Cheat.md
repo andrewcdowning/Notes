@@ -7,4 +7,6 @@ ctrl + d half up
 ctrl + u half down
 
 v: Visual mode
-a:
+a: select "a"n object 
+
+example va(  selects between brace
