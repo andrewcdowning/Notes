@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS Type Transformations/Infer.md",
+                "file": "Rust/Ownership.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS Type Transformations/Infer.md",
+                "file": "Rust/Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS Type Transformations/Infer.md",
+                "file": "Rust/Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS Type Transformations/Infer.md"
+                "file": "Rust/Ownership.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "480618dd5101510c",
   "lastOpenFiles": [
-    "Vim Cheat.md",
-    "Untitled.md",
     "TS Type Transformations/Infer.md",
+    "Vim Cheat.md",
+    "Rust/Ownership.md",
     "Domain Driven Design/Design Example 1.md",
     "Domain Driven Design/design_example_1.png",
     "README.md",
