@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b615c07a4cc4f2fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480618dd5101510c",
+  "active": "b615c07a4cc4f2fb",
   "lastOpenFiles": [
     "TS Type Transformations/Infer.md",
     "Vim Cheat.md",
